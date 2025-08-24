@@ -508,7 +508,7 @@ header nav a img {
 }
 
 .portfolio-galerie a {
-	flex: 0 0 calc( (100% / 6) - 20px + (20px / 6) ); /* 6 obrázků na řádek = 100% šířky děleno 6 mínus mezera plus mezera dělena 6 */
+	flex: 0 0 calc( (100% / 6) - 24px + (24px / 6) ); /* 6 obrázků na řádek = 100% šířky děleno 6 mínus mezera plus mezera dělena 6 */
 	display: inline-flex;
 	justify-content: center;
 	align-items: center;
@@ -516,7 +516,7 @@ header nav a img {
 	height: 100%;
 	border-radius: 1rem;
 	overflow: hidden;
-	border: 3px solid #EDE9FF
+	border: 2px solid #EDE9FF
 	
 	
 	

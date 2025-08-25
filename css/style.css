@@ -135,7 +135,7 @@ header .brand {
 header nav {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 2.5rem;
+	gap: 3rem;
 	align-items: flex-start;
 	padding-right: 3rem;
 
